@@ -1,4 +1,4 @@
-id,code,nameTh,geo_id,province_id
+id,code,name_th,geo_id,province_id
 "1","1001","เขตพระนคร","2","1"
 "2","1002","เขตดุสิต","2","1"
 "3","1003","เขตหนองจอก","2","1"
