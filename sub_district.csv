@@ -1,4 +1,4 @@
-id,code,name,district_id,province_id,geo_id
+id,code,nameTh,district_id,province_id,geo_id
 "1","100101","พระบรมมหาราชวัง","1","1","2"
 "2","100102","วังบูรพาภิรมย์","1","1","2"
 "3","100103","วัดราชบพิธ","1","1","2"
